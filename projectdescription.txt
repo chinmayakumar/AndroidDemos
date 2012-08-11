@@ -24,3 +24,5 @@ Recommended Reading :
 1. Interpolators for acceleration and decelaration
 2. Gestures 
 3. Coverflow by implementing the view .
+
+Sunny Sharma modified Changes August 11th 2012
