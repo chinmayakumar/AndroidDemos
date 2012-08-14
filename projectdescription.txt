@@ -1,7 +1,7 @@
 This is the project description file. We will put tasks and arrange it according to its priority .
 Please put your name and task you want to implement for the project. Also one can put some reading or information links
 that might be interesting for the project. Some helpful git commands also frequently used can be added. 
-
+Added some changes in the file
 -------------------------------------------------------------------------------------------------------
 
 This is the project change commit from sunny
